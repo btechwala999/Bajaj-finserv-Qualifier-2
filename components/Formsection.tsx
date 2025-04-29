@@ -1,4 +1,4 @@
-import { useForm } from "react";
+import { useForm } from "react-hook-form";
 import InputField from "./InputField";
 import { FormSection } from "../types/formTypes";
 
